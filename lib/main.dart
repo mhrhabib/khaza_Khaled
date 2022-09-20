@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: SafeArea(
         child: WebView(
           javascriptMode: JavascriptMode.unrestricted,
-          initialUrl: 'https://desktopit.net/',
+          initialUrl: 'https://khazakhaled.com/',
         ),
       ),
     );
