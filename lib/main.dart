@@ -46,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: WebView(
           javascriptMode: JavascriptMode.unrestricted,
           initialUrl: 'https://khazakhaled.com/',
+          //hello
         ),
       ),
     );
